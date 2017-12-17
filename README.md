@@ -1,13 +1,18 @@
-# gatsby-starter-default
-The default Gatsby starter
+# gatsby-static-site-episode-34
+A static site/blog using GatsbyJS. See the live video [here](https://youtu.be/SNfxwx_jfc8).
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+# Installation
 ```
-gatsby new gatsby-example-site
+sudo npm i -g gatsby-cli
+git clone
+npm install
+gatsby develop
 ```
+[Create a Twitter app](https://apps.twitter.com)
+[Create a firebase project](https://console.firebase.google.com)
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+# By SocialNerds
+* [SocialNerds.gr](https://www.socialnerds.gr/)
+* [YouTube](https://www.youtube.com/SocialNerdsGR)
+* [Facebook](https://www.facebook.com/SocialNerdsGR)
+* [Twitter](https://twitter.com/socialnerdsgr)
